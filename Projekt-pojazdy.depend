@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1600015827 source:c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\dostawczy.cpp
+	"Dostawczy.h"
+	"Osobowy.h"
+	<iostream>
+
+1600015827 c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\dostawczy.h
+	"Pojazd.h"
+	<iostream>
+
+1600015827 c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\pojazd.h
+	<iostream>
+
+1600015827 c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\osobowy.h
+	"Pojazd.h"
+	<iostream>
+
+1599853251 source:c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\main.cpp
+	<time.h>
+	"Menu.h"
+
+1600017899 c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\menu.h
+	<vector>
+	"Pojazd.h"
+
+1600118448 source:c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\menu.cpp
+	"Menu.h"
+	<vector>
+	"Osobowy.h"
+	"Dostawczy.h"
+	"Pojazd.h"
+	<conio.h>
+	<string>
+
+1600118357 source:c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\osobowy.cpp
+	"Osobowy.h"
+	"Dostawczy.h"
+	<iostream>
+
+1600018396 source:c:\users\administrator\desktop\projekt\samochody\najnowszy\nowszy\jeszczenowszy\cb\gotowe\projekt-pojazdy\pojazd.cpp
+	"Pojazd.h"
+	"Osobowy.h"
+	<iostream>
+	<Windows.h>
+
